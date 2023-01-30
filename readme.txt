@@ -1,2 +1,2 @@
-this is sample text file
+this is sample text file!
 sec line
